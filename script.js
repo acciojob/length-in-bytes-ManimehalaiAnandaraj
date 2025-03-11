@@ -1,8 +1,8 @@
 const byteSize = (str) => {
   // write your code here
-
-	
+	str=(str).to.equal(byteSizeValue);
 	return str.length;
+	
 };
 
 // Do not change the code below
